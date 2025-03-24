@@ -20,7 +20,7 @@ console.log( valueInNumber);
 //  1 = true; 0 = false;
 // "" = false;
 // "Riddhi" =  true
-
+  
 
 let someNumber = 33
 
